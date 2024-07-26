@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "mx.medsi.medsicheck",
+      "sha256_cert_fingerprints": [
+        "E8:29:96:79:5F:7B:CE:B5:4D:79:46:D0:99:6E:5B:37:00:B3:EB:05:3A:00:E8:0C:9D:9F:AB:05:97:67:5B:35"
+      ]
+    }
+  }
+]
